@@ -1,7 +1,7 @@
 # Super-Random-Datasets
 A list of obscure datasets you've never heard of.
 
-1. (https://www.star.nesdis.noaa.gov/socd/sst/squam/)
+1. [Squam Data](https://www.star.nesdis.noaa.gov/socd/sst/squam/)
 
 2. [Assessment in Support of Changes to the Maximum Level for Arsenic in Fruit Juice and Fruit Nectar](https://open.canada.ca/data/en/dataset/36868800-ca97-4dd8-8891-78ab54ee23bc)
 
