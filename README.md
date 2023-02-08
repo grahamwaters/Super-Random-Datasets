@@ -36,6 +36,9 @@ A list of obscure datasets you've never heard of.
 
 11. Open Data from the city of Vorarlberg, Austria - [Open Data](http://data.vorarlberg.gv.at/)
 12. [The Top 50 Employers in Kauai County, Hawaii](https://opendata.hawaii.gov/dataset/top-50-employers-kauai-county)
+13. [Social Contributions in Chile](https://datos.gob.cl/dataset/consumos-basicos)
+14. [SkyCam - Sky Images and their irradiance values](https://github.com/vglsd/SkyCam)
+15. [Smithsonian Open Access](https://github.com/Smithsonian/OpenAccess) - A collection of open access datasets from the Smithsonian Institution
 
 
 <div align="center">
